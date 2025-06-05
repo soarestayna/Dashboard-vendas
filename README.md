@@ -41,4 +41,5 @@ Introdução à criação de medidas e KPIs com DAX
 📂 Dataset
 O dataset utilizado foi disponibilizado pelo curso DSA - Data Science Academy, contendo múltiplas tabelas relacionadas com dados de vendas, produtos e clientes.
 
-![dashboard-kpi](https://github.com/user-attachments/assets/d6298b45-7c90-4249-b623-416e80dee6ff)
+![dashboard-kpi](https://github.com/user-attachments/assets/1f82d35b-082f-4f0e-b282-56305141974b)
+
