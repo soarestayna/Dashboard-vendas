@@ -1,4 +1,4 @@
-Modelagem de Dados e Introdução ao DAX - Power BI
+##Modelagem de Dados e Introdução ao DAX - Power BI
 <p></p>
 
 **Descrição**
@@ -33,9 +33,12 @@ Modelagem relacional no Power BI
 
 Criação e ajuste de relacionamentos entre tabelas
 
+
 Limpeza e preparação de dados para análise
 
 Introdução à criação de medidas e KPIs com DAX
 
 📂 Dataset
 O dataset utilizado foi disponibilizado pelo curso DSA - Data Science Academy, contendo múltiplas tabelas relacionadas com dados de vendas, produtos e clientes.
+
+![dashboard-kpi](https://github.com/user-attachments/assets/d6298b45-7c90-4249-b623-416e80dee6ff)
